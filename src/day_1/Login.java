@@ -8,8 +8,19 @@ public class Login {
 
 
 
+<<<<<<< HEAD
         //written on intellij
 
+=======
+        //written on intellij     
+        
+        
+        
+        
+        
+        //written on gitHub
+        
+>>>>>>> refs/remotes/origin/master
 
     }
 }
